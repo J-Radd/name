@@ -6,3 +6,7 @@ client = Client(
 )
 client = Client(client_id='6008334c1189430010aa668c', secret='d7d22846616a0ea38dac7cdc45003c', environment='sandbox')
 https://cdn.plaid.com/link/v2/stable/link.html
+https://cdn.plaid.com/link/v2/stable/link.html
+  ?isWebview=true
+  &token="GENERATED_LINK_TOKEN"
+  &receivedRedirectUri=
