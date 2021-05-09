@@ -32,3 +32,6 @@ cp .sandbox.example .sandbox
 make up language=node
 
 # Go to http://localhost:3000
+?isWebview=true
+  &token="GENERATED_LINK_TOKEN"
+  &receivedRedirectUri=
